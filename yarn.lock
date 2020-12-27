@@ -4525,10 +4525,10 @@ react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-native-nodemediaclient@^0.2.12:
-  version "0.2.12"
-  resolved "https://registry.yarnpkg.com/react-native-nodemediaclient/-/react-native-nodemediaclient-0.2.12.tgz#7943b81a80855721e694265e7280aec21b9f5bcd"
-  integrity sha512-VMOITkKxFuqPoYc7fx7tyMVWywd/VKnxcS3hc+oqJTxO1Bm5m5F28CvXj31bWbKPjD+1DtgMpTK/zSBl9Ddl8Q==
+react-native-nodemediaclient@^0.2.13:
+  version "0.2.13"
+  resolved "https://registry.yarnpkg.com/react-native-nodemediaclient/-/react-native-nodemediaclient-0.2.13.tgz#39bb09cea8aca83c48b5e7031126ee42da9df1ba"
+  integrity sha512-JL/p5Xm9KiEo4CJQ+Vk1RnzDpm2A+fxPzEYmVIPVdKfVKnGI97sY9GozL/3tqEdLNYPk1GAqnOA5t9YjMOsrvA==
 
 react-native-safe-area-context@3.1.4:
   version "3.1.4"

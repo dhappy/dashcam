@@ -32,7 +32,7 @@ export default () => {
     <NodeCameraView 
       style={{ height: 400 }}
       ref={(vb) => { this.vb = vb }}
-      outputUrl = {"rtmp://192.168.0.10/live/stream"}
+      outputUrl = {"rtmp://global-live.mux.com:5222/app/ac436736-8f5c-a9f1-45d2-6e45c8bf0087"}
       camera={{ cameraId: 1, cameraFrontMirror: true }}
       audio={{ bitrate: 32000, profile: 1, samplerate: 44100 }}
       video={{ preset: 12, bitrate: 400000, profile: 1, fps: 15, videoFrontMirror: false }}
